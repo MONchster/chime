@@ -1,0 +1,53 @@
+body {
+  background-color: lightblue;
+}
+p {
+  background-color:
+  margin: 0;
+  padding: 30px;
+  max-width: 80px;
+  display: inline-block;
+  border-width: 8px;
+  border-style: dotted;
+  border-radius: 100px;
+  position: relative;
+
+  }
+h1{
+  text-align: center;
+
+
+}
+
+.t20-r30 {
+  top: 20px;
+  right: 30px;
+}
+
+.t40-l10 {
+  top: 40px;
+  left: 10px;
+}
+
+.b15-l30 {
+  bottom: 15px;
+  left: 30px;
+}
+
+.b26-r20 {
+  bottom: 25px;
+  right: 20px;
+}
+
+.grey {
+  color: grey;
+}
+.teal {
+  color: teal;
+}
+.black {
+  color: black;
+}
+.forestgreen {
+  color: forestgreen;
+}
